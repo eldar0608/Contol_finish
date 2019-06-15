@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NBKR.iml" filepath="$PROJECT_DIR$/.idea/NBKR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyApiServer/currencyapiserver.iml" filepath="$PROJECT_DIR$/CurrencyApiServer/currencyapiserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyConverterServer/currencyconverterserver.iml" filepath="$PROJECT_DIR$/CurrencyConverterServer/currencyconverterserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyDatabaseServer/currencydatabaseserver.iml" filepath="$PROJECT_DIR$/CurrencyDatabaseServer/currencydatabaseserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyWebServer/currencywebserver.iml" filepath="$PROJECT_DIR$/CurrencyWebServer/currencywebserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NamingServer/namingserver.iml" filepath="$PROJECT_DIR$/NamingServer/namingserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScheduledCurrencyServer/scheduledcurrencyserver.iml" filepath="$PROJECT_DIR$/ScheduledCurrencyServer/scheduledcurrencyserver.iml" />
+    </modules>
+  </component>
+</project>
